@@ -1,0 +1,10 @@
+frontend:
+react- UI design
+firebase for Authentication & hosting
+
+backend:
+express
+node
+mongoDB
+
+mongodb's chainstrim and pusher for realtime functionality
